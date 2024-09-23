@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizzApp</string>
+    <string name="Texto_Pregunta">Question</string>
+    <string name="True_Button">True</string>
+    <string name="False_Button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="Pregunta_2">¿AMLO was a good president?</string>
+    <string name="Pregunta_3">¿Can you survive with 13$?</string>
+    <string name="Pregunta_4">¿Is Taiwan a country</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+</resources>

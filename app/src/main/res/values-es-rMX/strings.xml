@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizzApp</string>
+    <string name="True_Button">Verdadero</string>
+    <string name="False_Button">Falso</string>
+    <string name="Texto_Pregunta">¿Canberra es la capital de Australia?</string>
+    <string name="correct_toast">Correcto!</string>
+    <string name="incorrect_toast">Incorrecto!</string>
+    <string name="next_button">Siguiente</string>
+    <string name="Pregunta_2">¿AMLO fue un buen presidente?</string>
+    <string name="Pregunta_3">¿Se puede sobrevivir con 13$ ?</string>
+    <string name="Pregunta_4">¿Taiwan es un pais?</string>
+    <string name="warning_text">¿Estas seguro de esto?</string>
+    <string name="show_answer_button">Mostrar respuesta</string>
+    <string name="cheat_button">Trampa!</string>
+    <string name="judgment_toast">Hacer trampa esta mal.</string>
+</resources>
